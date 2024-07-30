@@ -26,17 +26,22 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 * Home page
   
-![Screenshot (32)](https://github.com/Funiey/calculator/assets/127227319/994ffb48-5b2f-44ce-846a-c669bd71441e)
+![Screenshot (48)](https://github.com/user-attachments/assets/28ee27ac-6c20-45a7-a728-ecc7bf6bd985)
+
 
 * Experience page
   
-![Screenshot (33)](https://github.com/Funiey/calculator/assets/127227319/6f59d928-c271-4b9b-99ac-3214e97a70e8)
+![Screenshot (49)](https://github.com/user-attachments/assets/bb1174d3-fd2d-4ed1-ba5c-1d4ed15bf820)
+
 
 * Project page
 
-![Screenshot (36)](https://github.com/Funiey/calculator/assets/127227319/be52fea0-96ec-464a-b1b9-9a9b45327403)
+![Screenshot (50)](https://github.com/user-attachments/assets/e8cb2239-0dfe-4230-8db0-8d6fd41d6bfc)
+
 
 * Contact page
+  
+![Screenshot (51)](https://github.com/user-attachments/assets/c3307673-8589-4280-a19a-5f7913495247)
 
 
 # Authour
