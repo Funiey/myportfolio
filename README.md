@@ -13,9 +13,9 @@ My personal portfolio website
 
 # Getting Started
 
-* Clone the repository to your local machine using git clone https://github.com/your-username/finance-calculator.git 
+* Clone the repository to your local machine using git clone https://github.com/Funiey/myportfolio
 * Open the project in your preferred code editor or IDE
-* Run the portfolio by executing node index.
+* Run my portfolio by executing node index.
 
 
 # License
